@@ -1,0 +1,1 @@
+# Binary-Case-Control-GWAS-and-Haplotype-GWAS
