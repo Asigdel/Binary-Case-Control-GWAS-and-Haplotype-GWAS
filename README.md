@@ -199,3 +199,5 @@ ghap.hap2plink(haplo, outfile = "ACS_haps_5kb_geno")
 
 
 plink --tfile Cirneco_Part --dog --homozyg group --homozyg-density 50 --homozyg-gap 500 --homozyg-kb 50 --homozyg-match 1 --homozyg-snp 50 --homozyg-window-het 1 --homozyg-window-missing 1 --homozyg-window-snp 50 --homozyg-window-threshold 0.05 --out Final
+
+
